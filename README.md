@@ -16,5 +16,3 @@
 <img src="https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white" alt="AssemblyScript"/>&nbsp;
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)" alt="C"/>&nbsp;
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)" alt="Python"/>&nbsp;
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stepanov-vpk&theme=github)
