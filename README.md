@@ -22,5 +22,5 @@
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)" alt="Python"/>&nbsp;
   <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)" alt="Arduino"/>&nbsp;&nbsp;
 </div>
-<br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stepanov-vpk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
