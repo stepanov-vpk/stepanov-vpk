@@ -10,7 +10,7 @@
   <a href="https://t.me/yokogawa_ejx530a">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
-  ![](https://komarev.com/ghpvc/?username=stepanov-vpk)
+  [](https://komarev.com/ghpvc/?username=stepanov-vpk)
 </div>
 
 <div id="languages">
