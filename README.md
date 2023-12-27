@@ -10,7 +10,7 @@
   <a href="https://t.me/yokogawa_ejx530a" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
-  <a href="https://github.com/antonkomarev/github-profile-views-counter">
+  <a>
     <img src="https://komarev.com/ghpvc/?username=stepanov-vpk&style=for-the-badge">
 </a>
 </div>
