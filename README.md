@@ -5,9 +5,9 @@
 
 <div id="socials" align="center">
   <a href="mailto:anton.stepanov.prg@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" target="_blank"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://t.me/yokogawa_ejx530a">
+  <a href="https://t.me/yokogawa_ejx530a" target="_blank"/>
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
   <a href="https://github.com/antonkomarev/github-profile-views-counter">
