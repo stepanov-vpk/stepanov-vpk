@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h1>Hi there, I'm Anton</h1>
-  <h3>Lecturer at the Department of Automation and Computer Science</h3>
+  <h3>Student at Volgograd State Technical University, Department of Informatics and Computer Science</h3>
 </div>
 
 <div id="socials" align="center">
