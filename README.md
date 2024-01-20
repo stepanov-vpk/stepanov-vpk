@@ -23,4 +23,4 @@
   <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)" alt="Arduino"/>&nbsp;
 </div>
 
-![Top programming languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=stepanov-vpk&hide_progress=true)
+![Top programming languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=stepanov-vpk)
