@@ -12,7 +12,7 @@
   </a>
   <a>
     <img src="https://komarev.com/ghpvc/?username=stepanov-vpk&style=for-the-badge">
-</a>
+  </a>
 </div>
 
 <div id="languages">
@@ -24,5 +24,8 @@
 </div>
 
 <div id="top_lang">
+  <a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stepanov-vpk">
+  </a>
   ![Top programming languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=stepanov-vpk)
 </div>
