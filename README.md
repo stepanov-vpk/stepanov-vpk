@@ -1,5 +1,4 @@
-<div id="header" align="center">
-  <h1>Hi there, I'm Anton</h1>
+<h1>Hi there, I'm Anton</h1>
   <h3>Student at Volgograd State Technical University, Department of Informatics and Computer Science</h3>
 </div>
 
@@ -16,7 +15,7 @@
 </div>
 
 <div id="languages" align="center">
-  <h3>Languages and tools</h3>
+  <h3>Languages and tools:</h3>
   <img src="https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white" alt="AssemblyScript"/>&nbsp;
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>&nbsp;
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>&nbsp;
@@ -25,7 +24,6 @@
 </div>
 <br>
 <div id="top_lang" align="center">
-  <a>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stepanov-vpk">
-  </a>
-</div>
+<a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stepanov-vpk">
+</a>
