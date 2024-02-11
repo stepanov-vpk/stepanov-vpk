@@ -20,7 +20,7 @@
   </div>
   <br>
   <div id="top_lang" align="center">
-  <a>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stepanov-vpk">
-  </a>
+    <h3>GitHub Statistics:</h3>
+    <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stepanov-vpk"></a>
+  </div>
 </div>
