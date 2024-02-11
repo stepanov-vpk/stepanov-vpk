@@ -3,7 +3,7 @@
 </div>
 
 <div id="socials" align="center">
-  <a target="_blank" href="https://t.me/yokogawa_ejx530a">
+  <a target="_blank"href="https://t.me/yokogawa_ejx530a">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:anton.stepanov.vpk@gmail.com">
