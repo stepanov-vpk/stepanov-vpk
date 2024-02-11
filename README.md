@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>&nbsp;&nbsp;&nbsp;&nbsp;
-    <p>I develop software for prototypes on Arduino debug boards and application programs in C, C++, Python.</p>
+    <p>I develop software for prototypes on development boards of the Arduino family and application programs in C, C++, Python. I am studying programming of production complexes in the development environment CodeSys V3.5.</p>
   </div>
   <br>
   <div id="top_lang" align="center">
