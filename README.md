@@ -2,7 +2,7 @@
   <h1>Hi there, I'm Anton 👋</h1>
   <h3>Student at Volgograd State Technical University, Department of Informatics and Computer Science</h3>
   </div>
-  <div align="center">
+  <div id="socials" align="center">
     <h3>Contact me:</h3>
     <a target="_blank" href="https://t.me/yokogawa_ejx530a"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="mailto:anton.stepanov.vpk@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
