@@ -13,7 +13,6 @@
     <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/st%20(Structured%20Text)-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="ST"/>&nbsp;&nbsp;&nbsp;&nbsp;
   </div>
   <br>
   <div id="top_lang" align="center">
