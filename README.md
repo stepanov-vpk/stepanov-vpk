@@ -1,24 +1,41 @@
-<div align="center">
-  <h1>Hi there, I'm Anton 👋</h1>
-  <h3>Student at Volgograd State Technical University, Department of Informatics and Computer Science</h3>
-  </div>
-  <div id="socials" align="center">
-    <h3>Contact me:</h3>
-    <a target="_blank" href="https://t.me/yokogawa_ejx530a"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="mailto:anton.stepanov.vpk@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  </div>
-  <div id="languages" align="center">
-    <h3>Languages and tools:</h3>
-    <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino"/>&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  </div>
-  <br>
-  <div id="top_lang" align="center">
-    <h3>GitHub Statistics:</h3>
-    <a>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stepanov-vpk">
-    </a>
-  </div>
-</div>
+# Привет, меня зовут [Ваше Имя]! 👋
+
+### Студент Волгоградского Государственного Технического Университета, факультет Информатики и Вычислительной Техники 🎓
+
+Я учусь на направлении, связанном с информационными технологиями, и активно развиваюсь в сфере программирования и компьютерных наук. Мне интересны современные технологии, разработка ПО и решение сложных задач.
+
+## Мои навыки и технологии 🛠️
+
+**Языки программирования:**
+- Python 🐍
+- Java ☕
+- C/C++ 
+- JavaScript (ES6+) 📜
+- SQL 📊
+
+**Инструменты и технологии:**
+- Git & GitHub 🐙
+- Docker 🐳
+- Linux 🐧
+- HTML/CSS 🌐
+- React ⚛️
+- Node.js 🟢
+
+## Контакты 📫
+
+Если у вас есть предложения о сотрудничестве или вопросы, не стесняйтесь связаться со мной:
+
+- Email: [your.email@example.com](mailto:your.email@example.com)
+- Telegram: [@yourusername](https://t.me/yourusername)
+- LinkedIn: [Ваше Имя](https://www.linkedin.com/in/yourprofile/)
+- VK: [Ваше Имя](https://vk.com/yourprofile)
+
+## Статистика GitHub 📊
+
+[![Ваша статистика GitHub](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)](https://github.com/yourusername)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)](https://github.com/yourusername)
+
+---
+
+⭐ Спасибо, что заглянули в мой профиль! Хорошего дня! 😊
