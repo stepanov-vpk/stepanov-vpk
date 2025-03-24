@@ -1,34 +1,18 @@
-# Привет, меня зовут [Ваше Имя]! 👋
+# Hello, I am Anton! 👋
 
-### Студент Волгоградского Государственного Технического Университета, факультет Информатики и Вычислительной Техники 🎓
+### Student at Volgograd State Technical University, Department of Informatics and Computer Science 🎓
 
-Я учусь на направлении, связанном с информационными технологиями, и активно развиваюсь в сфере программирования и компьютерных наук. Мне интересны современные технологии, разработка ПО и решение сложных задач.
-
-## Мои навыки и технологии 🛠️
-
-**Языки программирования:**
+## My languages ​​and tools 🛠️
 - Python 🐍
-- Java ☕
 - C/C++ 
-- JavaScript (ES6+) 📜
-- SQL 📊
-
-**Инструменты и технологии:**
 - Git & GitHub 🐙
-- Docker 🐳
-- Linux 🐧
-- HTML/CSS 🌐
-- React ⚛️
-- Node.js 🟢
 
-## Контакты 📫
+## Contact me 📫
 
-Если у вас есть предложения о сотрудничестве или вопросы, не стесняйтесь связаться со мной:
+If you have any cooperation proposals or questions, please feel free to contact me:
 
-- Email: [your.email@example.com](mailto:your.email@example.com)
-- Telegram: [@yourusername](https://t.me/yourusername)
-- LinkedIn: [Ваше Имя](https://www.linkedin.com/in/yourprofile/)
-- VK: [Ваше Имя](https://vk.com/yourprofile)
+- Email: [anton.stepanov.vpk@gmail.com](mailto:anton.stepanov.vpk@gmail.com)
+- Telegram: [@yokogawa_ejx530a](https://t.me/yokogawa_ejx530a)
 
 ## Статистика GitHub 📊
 
