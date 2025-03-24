@@ -19,7 +19,3 @@ If you have any cooperation proposals or questions, please feel free to contact 
 [![Ваша статистика GitHub](https://github-readme-stats.vercel.app/api?username=stepanov-vpk&show_icons=true&theme=dark)](https://github.com/stepanov-vpk)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stepanov-vpk&layout=compact&theme=dark)](https://github.com/stepanov-vpk)
-
----
-
-⭐ Спасибо, что заглянули в мой профиль! Хорошего дня! 😊
